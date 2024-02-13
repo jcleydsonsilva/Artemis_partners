@@ -28,6 +28,4 @@ source .venv/bin/activate  # For Linux/macOS
 pip install -r requirements.txt
 ```
 
-=======
-# Artemis_partners
 >>>>>>> a5bf9d4fe5102bfc5d6141423829003b9541f781
