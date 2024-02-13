@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Artemis Partners KML Parser
 
 This Python script extracts data from a KML file containing information about Artemis Partners. It then saves the extracted data into an Excel file for further analysis.
